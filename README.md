@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmrePrlk
 - 👀 I’m interested in Data Science and Python
-- 🌱 I’m currently learning Python, scratch and sql
+- 🌱 I’m currently taking fullstack, dewops and datascience lessons,
 - 💞️ I’m looking to collaborate on ...
 - 📫 mr.prlk@gmail.com
 
