@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmrePrlk
-- 👀 I’m interested in AWS-DevOps
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in AWS-DevOps, Javascript, React.
+- 💞️ I’m looking to collaborate on Cloud and Front-End development.
 - 📫 mr.prlk@gmail.com
 
 <!---
